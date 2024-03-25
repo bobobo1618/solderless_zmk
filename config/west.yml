@@ -4,6 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: petejohanson
       url-base: https://github.com/petejohanson
+    - name: bobobo1618
+      url-base: https://github.com/bobobo1618
   projects:
     - name: zmk
       remote: petejohanson
@@ -12,5 +14,8 @@ manifest:
     - name: cirque-input-module
       remote: petejohanson
       revision: main
+    - name: miryoku_zmk
+      remote: bobobo1618
+      revision: solderless
   self:
     path: config
