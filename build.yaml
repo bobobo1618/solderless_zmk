@@ -14,4 +14,4 @@
 ---
 board: [ "nice_nano_v2" ]
 shield: [ "solderless_v2_left nice_view", "solderless_v2_right nice_view", "settings_reset" ]
-cmake-args: ['-DZMK_CONFIG=miryoku_zmk/config']
+cmake-args: ['-DZMK_CONFIG=/__w/solderless_zmk/solderless_zmk/miryoku_zmk/config']
