@@ -17,5 +17,8 @@ manifest:
     - name: miryoku_zmk
       remote: bobobo1618
       revision: solderless
+    - name: solderless_module
+      remote: bobobo1618
+      revision: main
   self:
     path: config
